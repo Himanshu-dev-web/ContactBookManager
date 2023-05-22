@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <h1 align="center">Hi 👋, I'm Himanshu Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- Developed this project [Contact management app with Charts and Maps](https://subtle-toffee-11b16a.netlify.app/)
+# Developed this project [Contact management app with Charts and Maps](https://subtle-toffee-11b16a.netlify.app/)
 
 <h3 align="left">Connect with me: [LinkDin](https://www.linkedin.com/in/himanshu-saini-8008a91ab/) 
 
