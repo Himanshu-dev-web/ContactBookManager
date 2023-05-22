@@ -6,6 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - 🔭 I’m currently working on [Create a contact management app with Charts and Maps](https://subtle-toffee-11b16a.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a> https://www.linkedin.com/in/himanshu-saini-8008a91ab/</a></h3>
+
+<h3 align="center">The app has two main pages:</h3>
+
 <p align="left">
+  Contacts
 </p>
+<p align="left">
+  Charts and Maps for covid data
+</p>
+
+<h3 align="center">The following technologies were used to build this app:</h3>
+<ul>
+  <li>ReactJS</li>
+    <li>JavaScript</li>
+  <li>TailwindCSS</li>
+  <li>Redux Toolkit</li>
+
+</ul>
+
+
