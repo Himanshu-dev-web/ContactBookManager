@@ -10,13 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h3 align="left">The app has two main pages:</h3>
 
-<p align="left">
-  *Contacts
-</p>
-<p align="left">
-  *Charts and Maps for covid data
-</p>
-
+ <ul>
+  <li>Contacts</li>
+    <li>Charts and Maps for Displaying covid data</li>
+</ul>
 
 <h3 align="left">The following technologies were used to build this app:</h3>
 <ul>
