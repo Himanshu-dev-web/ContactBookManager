@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Hi 👋, I'm Himanshu Saini</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Working Live Link :   [Demo](https://subtle-toffee-11b16a.netlify.app/).
+- 🔭 I’m currently working on [Create a contact management app with Charts and Maps](https://subtle-toffee-11b16a.netlify.app/)
 
-##This Web Application has two Parts:
-
-#1 : contact book Where we can add contact and Remove Contact also edit them.
-#2 : DashBoard Where we are displaying data related covid-19 with the help of Line Chart and Maps.
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
