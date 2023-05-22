@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <h1 align="center">Hi 👋, I'm Himanshu Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Create a contact management app with Charts and Maps](https://subtle-toffee-11b16a.netlify.app/)
+- Developed this project [Contact management app with Charts and Maps](https://subtle-toffee-11b16a.netlify.app/)
 
 <h3 align="left">Connect with me: [LinkDin](https://www.linkedin.com/in/himanshu-saini-8008a91ab/) 
 
@@ -24,5 +24,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <li>TailwindCSS</li>
   <li>Redux Toolkit</li>
 </ul>
+  
+  <h3 align="left">Api EndPoints</h3>
+  <h5 align="left">  The app uses the following APIs to fetch data:</h5>
+  
+  <ul>
+  <li>World wide data of cases: [](https://disease.sh/v3/covid-19/all/) </li>
+    <li>Country Specific data of cases: [](https://disease.sh/v3/covid-19/countries)  </li>
+  <li>Graph data for cases with date:   [](https://disease.sh/v3/covid-19/historical/all?lastdays=all)</li>
+</ul>
+
+  
+  
+
+
+
 
 
